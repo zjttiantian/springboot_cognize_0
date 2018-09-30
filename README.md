@@ -4,3 +4,4 @@ spring boot基本认识
 
 2、注解@ConfigurationProperties("spring.cloud.config.server.git")，获取配置文件中参数
 ![image](https://github.com/zjttiantian/springboot_cognize_0/blob/master/doc/image/springboot_par.PNG) 
+修改为不存在的路径后下载文件失败报异常
